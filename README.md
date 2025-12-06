@@ -18,3 +18,5 @@ fields_of_interest:
 currently_learning: ["Java", "PostgreSQL", "Design Patterns"]
 hobbies: ["Photography", "Poker", "Music Production"]
 ```
+
+[![My LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=costucke)](https://leetcode.com/costucke)
