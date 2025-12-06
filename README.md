@@ -21,6 +21,6 @@ hobbies: ["Photography", "Poker", "Music Production"]
 
 <p align="center">
   <a href="https://leetcode.com/costucke">
-    <img src="https://leetcard.jacoblin.cool/costucke?theme=dark&font=changa&ext=heatmap" width="500px" alt="LeetCode Stats"/>
+    <img src="https://leetcard.jacoblin.cool/costucke?theme=dark&font=changa&ext=heatmap" width="250px" alt="LeetCode Stats"/>
   </a>
 </p>
