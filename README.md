@@ -19,4 +19,8 @@ currently_learning: ["Java", "PostgreSQL", "Design Patterns"]
 hobbies: ["Photography", "Poker", "Music Production"]
 ```
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/costucke?theme=dark&font=changa&ext=heatmap)
+<p align="center">
+  <a href="https://leetcode.com/costucke">
+    <img src="https://leetcard.jacoblin.cool/costucke?theme=dark&font=changa&ext=heatmap" width="500px" alt="LeetCode Stats"/>
+  </a>
+</p>
