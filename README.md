@@ -20,6 +20,16 @@ hobbies: ["Photography", "Poker", "Music Production"]
 ```
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6600?style=for-the-badge&logo=pytorch&logoColor=white" alt="Machine Learning" />
+</p>
+
+<p align="center">
   <a href="https://leetcode.com/costucke">
     <img src="https://leetcard.jacoblin.cool/costucke?theme=dark&font=changa&ext=heatmap" width="350px" alt="LeetCode Stats"/>
   </a>
