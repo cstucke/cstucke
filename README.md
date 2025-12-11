@@ -28,9 +28,3 @@ hobbies: ["Photography", "Poker", "Music Production"]
   
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 </p>
-
-<p align="center">
-  <a href="https://leetcode.com/costucke">
-    <img src="https://leetcard.jacoblin.cool/costucke?theme=dark&font=changa&ext=heatmap" width="350px" alt="LeetCode Stats"/>
-  </a>
-</p>
