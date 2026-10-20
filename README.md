@@ -12,11 +12,12 @@ education:
 fields_of_interest:
     [
         "Machine learning",
-        "Cryptography",
-        "Quantitative Development"
+        "Software Engineering"
     ]
-currently_learning: ["Java", "PostgreSQL", "Design Patterns"]
-hobbies: ["Photography", "Poker", "Music Production"]
+currently_learning: ["DevOps", "Project Architecture", "AI Systems Integration"]
+competencies: ["Python", "Javascript", "REST API"]
+languages: ["English", "French", "Estonian"]
+hobbies: ["Photography", "Poker", "Guitar"]
 ```
 
 <p align="center">
