@@ -14,7 +14,12 @@ fields_of_interest:
         "Machine learning",
         "Software Engineering"
     ]
-currently_learning: ["DevOps", "Project Architecture", "AI Systems Integration"]
+currently_learning:
+    [
+        "DevOps",
+        "Project Architecture",
+        "AI Systems Integration"
+    ]
 competencies: ["Python", "Javascript", "REST API"]
 languages: ["English", "French", "Estonian"]
 hobbies: ["Photography", "Poker", "Guitar"]
